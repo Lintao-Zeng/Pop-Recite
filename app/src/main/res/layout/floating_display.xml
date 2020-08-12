@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="horizontal"
+        android:text="涉及到了开发商考虑到房价克拉斯杰弗里斯到家了房间啊来得及福利卡大姐夫控件是砥砺奋进拉萨的加分临时冻结弗利萨京东方克里斯上课了解到付款了建档立卡放假了深刻的解放路口建档立卡福建省来得及发牢骚江东父老会计分录看碟机拉法基第十六届分类考试缴费老实交代"
+        android:textSize="18sp" />
+</LinearLayout>
